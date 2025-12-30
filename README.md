@@ -13,16 +13,18 @@
   📍 Dar es Salaam, Tanzania •
   📧 <a href="mailto:kasimbakari012@gmail.com">kasimbakari012@gmail.com</a> •
   📱 +255 774 830 895<br>
-  🔗 <a href="https://github.com/kasimbakari012/kasimbakari012">GitHub</a> •
-  💼 <a href="#">LinkedIn</a> <em>(https://www.linkedin.com/in/kasim-bakari-034932327)</em>
+  🔗 <a href="https://github.com/kasimbakari012">GitHub</a> •
+  💼 <a href="https://www.linkedin.com/in/kasim-bakari-034932327">LinkedIn</a>
 </p>
 
+<!-- YOUR PHOTO HERE – Circular with neon glow (super professional!) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kasimbakari012/kasimbakari012/main/Kasim.jpg" alt="Futuristic Tech Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/kasimbakari012/kasimbakari012/main/profile.jpg" alt="Kasim Ismail Bakari" width="300" style="border-radius:50%; border:6px solid #BB86FC; box-shadow: 0 0 30px #BB86FC;"/>
 </p>
+
+<!-- Optional: Replace with your actual filename, e.g. Kasim.jpg if that's the exact name -->
 
 ---
-
 ## 💡 About Me
 
 I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.
@@ -38,7 +40,6 @@ I specialize in building scalable, user-friendly applications from frontend to b
 > 🚀 **Turning ideas into reality – one commit at a time**
 
 ---
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -52,6 +53,7 @@ I specialize in building scalable, user-friendly applications from frontend to b
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9C0?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
@@ -77,7 +79,6 @@ I specialize in building scalable, user-friendly applications from frontend to b
 **More Skills:** Networking • Troubleshooting • Windows/Linux • Microsoft Office • Agile/Scrum
 
 ---
-
 ## 🌟 Featured Projects
 
 | Project                          | Description                                                                      | Tech Stack                                | Repository                                          |
@@ -87,12 +88,11 @@ I specialize in building scalable, user-friendly applications from frontend to b
 | **SmartShop E-commerce**         | Feature-rich online store with authentication & payments                         | PHP, MySQL, JS, Bootstrap                 | [View Code](https://github.com/kasimbakari012/smartshop) |
 | **Pharmaceutical Auditor**       | Comprehensive pharmacy stock & sales management                                  | PHP, MySQL, JS, Bootstrap                 | [View Code](https://github.com/kasimbakari012/pharmacetic-auditor) |
 | **Flask Weather App**            | Real-time weather dashboard powered by APIs                                      | Python, Flask, HTML/CSS, MySQL            | [View Code](https://github.com/kasimbakari012/weather-app) |
-| **Number Guessing Game**         | Fun interactive web game with persistent scoring                                  | Python, Flask, HTML/CSS                   | [View Code](https://github.com/kasimbakari012/NumberGuessingGame) |
+| **Number Guessing Game**         | Fun interactive web game with persistent scoring                                 | Python, Flask, HTML/CSS                   | [View Code](https://github.com/kasimbakari012/NumberGuessingGame) |
 
 > ⭐ All projects open for collaboration – fork, star, or contribute!
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -109,13 +109,12 @@ I specialize in building scalable, user-friendly applications from frontend to b
 </p>
 
 ---
-
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:kasimbakari012@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/kasimbakari012"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kasimbakari012@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/kasimbakari012"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/kasim-bakari-034932327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
