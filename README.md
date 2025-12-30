@@ -1,103 +1,111 @@
 <p align="center">
-  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcqgpgbbf7sy0q3pcxdi1.png" alt="Modern Full Stack Developer Banner">
+  <img src="https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?semt=ais_hybrid" alt="Futuristic Tech Banner" width="100%"/>
 </p>
 
-# 👋 Hi, I'm Kasim Ismail Bakari 🇹🇿
+<h1 align="center">👋 Hi, I'm Kasim Ismail Bakari 🇹🇿</h1>
 
-**Passionate Full Stack Developer**  
-Building robust web applications with **PHP • Angular • Spring Boot • Python • JavaScript**
+<p align="center">
+  <strong>Passionate Full Stack Developer</strong><br>
+  Crafting powerful web applications with <strong>PHP • Angular • Spring Boot • Python • JavaScript</strong>
+</p>
 
-📍 Dar es Salaam, Tanzania  
-📧 [kasimbakari012@gmail.com](mailto:kasimbakari012@gmail.com)  
-📱 +255 774 830 895  
-🔗 [GitHub](https://github.com/kasimbakari012) • [LinkedIn](https://www.linkedin.com/in/kasim-bakari-034932327) 
+<p align="center">
+  📍 Dar es Salaam, Tanzania •
+  📧 <a href="mailto:kasimbakari012@gmail.com">kasimbakari012@gmail.com</a> •
+  📱 +255 774 830 895<br>
+  🔗 <a href="https://github.com/kasimbakari012/kasimbakari012">GitHub</a> •
+  💼 <a href="#">LinkedIn</a> <em>(https://www.linkedin.com/in/kasim-bakari-034932327)</em>
+</p>
+
+<p align="center">
+  <img src="https://images.stockcake.com/public/a/3/c/a3cfda1f-3241-4ded-b9da-9598279936a0_large/coding-at-night-stockcake.jpg" alt="Developer in Action – Neon Coding Aesthetic" width="80%"/>
+</p>
 
 ---
 
 ## 💡 About Me
 
-I'm a dedicated **Full Stack Developer** holding a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.
+I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.
 
-I thrive on turning ideas into reality through clean, efficient code. Passionate about problem-solving, web technologies, and continuous learning.
+I specialize in building scalable, user-friendly applications from frontend to backend. Passionate about clean code, innovative solutions, and lifelong learning.
 
-**Key Strengths:**
-- Strong collaboration & communication
-- Creative and analytical thinking
-- Agile/Scrum methodologies
-- Rapid adaptation to new tools & frameworks
+**Core Strengths:**
+- Excellent teamwork & communication
+- Creative problem-solving
+- Agile/Scrum expertise
+- Fast learner of emerging technologies
 
-> 🚀 Always learning, always building – open to exciting opportunities!
+> 🚀 **Turning ideas into reality – one commit at a time**
 
 ---
 
 ## 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://thumbs.dreamstime.com/b/coding-neon-laptop-hands-typing-code-glowing-futuristic-lit-workspace-night-372022892.jpg" alt="Neon Coding Workspace" width="60%"/>
+</p>
+
 ### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle"/>
+### Databases & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### Tools & Others
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
-</p>
-
-**Additional Skills:** Networking • Troubleshooting • Windows & Linux • Microsoft Office • Agile/Scrum
+**More Skills:** Networking • Troubleshooting • Windows/Linux • Microsoft Office • Agile/Scrum
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project                        | Description                                                                 | Tech Stack                              | Repository                                      |
-|--------------------------------|-----------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------|
-| **Online Police Case Reporting** | Real-time case reporting with tracking & notifications                      | PHP, MySQL, JavaScript, Bootstrap       | [View Code](https://github.com/kasimbakari012/fyp1) |
-| **Employee Management System** | Full-stack CRUD app with RESTful API                                        | Angular, Spring Boot, MySQL             | [View Code](https://github.com/kasimbakari012/employee-manager-fullstack) |
-| **SmartShop E-commerce**       | Secure online store with cart, auth & order management                      | PHP, MySQL, JavaScript, Bootstrap       | [View Code](https://github.com/kasimbakari012/smartshop) |
-| **Pharmaceutical Auditor**     | Inventory, sales & stock management for pharmacies                          | PHP, MySQL, JavaScript, Bootstrap       | [View Code](https://github.com/kasimbakari012/pharmacetic-auditor) |
-| **Flask Weather App**          | Live weather dashboard using real-time APIs                                 | Python, Flask, HTML/CSS, MySQL          | [View Code](https://github.com/kasimbakari012/weather-app) |
-| **Number Guessing Game**       | Interactive web game with score tracking                                    | Python, Flask, HTML/CSS                 | [View Code](https://github.com/kasimbakari012/number-guessing-game) |
+| Project                          | Description                                                                      | Tech Stack                                | Repository                                          |
+|----------------------------------|----------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------|
+| **Online Police Case Reporting** | Real-time case tracking with notifications                                       | PHP, MySQL, JS, Bootstrap                 | [View Code](https://github.com/kasimbakari012/fyp1) |
+| **Employee Management System**   | Full-stack CRUD with secure REST API                                             | Angular, Spring Boot, MySQL               | [View Code](https://github.com/kasimbakari012/employee-manager-fullstack) |
+| **SmartShop E-commerce**         | Feature-rich online store with authentication & payments                         | PHP, MySQL, JS, Bootstrap                 | [View Code](https://github.com/kasimbakari012/smartshop) |
+| **Pharmaceutical Auditor**       | Comprehensive pharmacy stock & sales management                                  | PHP, MySQL, JS, Bootstrap                 | [View Code](https://github.com/kasimbakari012/pharmacetic-auditor) |
+| **Flask Weather App**            | Real-time weather dashboard powered by APIs                                      | Python, Flask, HTML/CSS, MySQL            | [View Code](https://github.com/kasimbakari012/weather-app) |
+| **Number Guessing Game**         | Fun interactive web game with persistent scoring                                  | Python, Flask, HTML/CSS                   | [View Code](https://github.com/kasimbakari012/NumberGuessingGame) |
 
-> Open to collaborations – feel free to fork or contribute!
+> ⭐ All projects open for collaboration – fork, star, or contribute!
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasimbakari012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimbakari012&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kasimbakari012&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimbakari012&layout=compact&theme=dracula&hide_border=true&border_radius=15" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimbakari012&theme=tokyonight&hide_border=true&border_radius=10" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimbakari012&theme=dracula&hide_border=true&border_radius=15" alt="Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasimbakari012&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasimbakari012&theme=dracula" alt="Profile Summary" />
 </p>
 
 ---
@@ -105,12 +113,12 @@ I thrive on turning ideas into reality through clean, efficient code. Passionate
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:kasimbakari012@gmail.com"><img src="https://img.shields.io/badge/Email-kasimbakari012@gmail.com-blue?style=flat&logo=gmail" alt="Email"/></a>&nbsp;
-  <a href="tel:+255774830895"><img src="https://img.shields.io/badge/Phone-+255%20774%20830%20895-green?style=flat&logo=whatsapp" alt="Phone"/></a>&nbsp;
-  <a href="https://github.com/kasimbakari012"><img src="https://img.shields.io/badge/GitHub-kasimbakari012-black?style=flat&logo=github" alt="GitHub"/></a>
+  <a href="mailto:kasimbakari012@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/kasimbakari012"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  ⭐ **Open to freelance, collaborations, and full-time opportunities**<br>
-  Thanks for visiting – have a great day! 👋
+  <strong>Open to freelance projects, collaborations, and full-time roles</strong><br>
+  Thanks for stopping by — let's build something amazing together! 🔥
 </p>
