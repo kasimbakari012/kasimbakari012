@@ -64,7 +64,7 @@ I love building robust web applications, solving complex problems, and deliverin
 | **SmartShop E-commerce**         | Secure online store with authentication, cart, and order management         | PHP, MySQL, JavaScript, Bootstrap   | [View Code](https://github.com/kasimbakari012/smartshop) |
 | **Pharmaceutical Auditor**       | Pharmacy inventory, sales, and stock management system                      | PHP, MySQL, JavaScript, Bootstrap   | [View Code](https://github.com/kasimbakari012/pharmacetic-auditor) |
 | **Flask Weather App**            | Live weather dashboard fetching real-time data from APIs                    | Python, Flask, HTML/CSS, MySQL      | [View Code](https://github.com/kasimbakari012/weather-app) |
-| **Number Guessing Game**         | Interactive web-based guessing game with score tracking                     | Python, Flask, HTML/CSS             | [View Code](https://github.com/kasimbakari012/number-guessing-game) *(update repo if different)* |
+| **Number Guessing Game**         | Interactive web-based guessing game with score tracking                     | Python, Flask, HTML/CSS             | [View Code](https://github.com/kasimbakari012/NumberGuessingGame) |
 
 > 🚀 Actively building and improving projects — open to collaboration!
 
