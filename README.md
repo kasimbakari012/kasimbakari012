@@ -13,7 +13,7 @@
   📍 Dar es Salaam, Tanzania •
   📧 <a href="mailto:kasimbakari012@gmail.com">kasimbakari012@gmail.com</a> •
   📱 +255 774 830 895<br>
-  🔗 <a href="https://github.com/kasimbakari012">GitHub</a> •
+  🔗 <a href="https://github.com/kasimbakari012/kasimbakari012">GitHub</a> •
   💼 <a href="https://www.linkedin.com/in/kasim-bakari-034932327">LinkedIn</a>
 </p>
 
