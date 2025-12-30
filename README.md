@@ -6,7 +6,7 @@ Specialized in **PHP • Angular • Spring Boot • Python • JavaScript**
 📍 Dar es Salaam, Tanzania  
 📧 [kasimbakari012@gmail.com](mailto:kasimbakari012@gmail.com)  
 📱 +255 774 830 895  
-🔗 [GitHub](https://github.com/kasimbakari012) • [https://www.linkedin.com/in/kasim-bakari-034932327] *(add your LinkedIn)*
+🔗 [GitHub](https://github.com/kasimbakari012) • [https://www.linkedin.com/in/kasim-bakari-034932327]
 
 ---
 
