@@ -18,8 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kasimbakari012/kasimbakari012/main/Kasim.jpg" alt="Kasim Ismail Bakari" width="300" style="border-radius:50%; border:5px solid #BB86FC;"/>
-</p>
+  <img src="https://raw.githubusercontent.com/kasimbakari012/kasimbakari012/main/Kasim.jpg" alt="Futuristic Tech Banner" width="100%"/>
 </p>
 
 ---
