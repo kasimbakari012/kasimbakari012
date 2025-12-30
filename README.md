@@ -18,7 +18,8 @@
 </p>
 
 <p align="center">
-  <img src="https://images.stockcake.com/public/a/3/c/a3cfda1f-3241-4ded-b9da-9598279936a0_large/coding-at-night-stockcake.jpg" alt="Developer in Action – Neon Coding Aesthetic" width="80%"/>
+  <img src="Kasim.jpg" alt="Kasim Ismail Bakari" width="300" style="border-radius:50%; border:5px solid #BB86FC;"/>
+</p>
 </p>
 
 ---
