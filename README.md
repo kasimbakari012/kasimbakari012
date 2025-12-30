@@ -78,9 +78,3 @@ Networking, Troubleshooting, Agile & Scrum, Windows & Linux, Microsoft Office Su
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasimbakari012&layout=compact&theme=radical)
 
----
-
-## 🏆 Certifications
-
-I certify that to the best of my knowledge, this information correctly describes my qualifications, experience, and skills.  
-*Date: 28th December 2025*
