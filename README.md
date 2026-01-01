@@ -20,27 +20,25 @@
   💼 <a href="https://www.linkedin.com/in/kasim-bakari-034932327">LinkedIn</a>
 </p>
 
-<!-- YOUR PHOTO HERE – Circular with neon glow (super professional!) -->
+<!--Circular with neon glow -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kasimbakari012/kasimbakari012/main/profile.jpg" alt="Kasim Ismail Bakari" width="300" style="border-radius:50%; border:6px solid #BB86FC; box-shadow: 0 0 30px #BB86FC;"/>
 </p>
-
-<!-- Optional: Replace with your actual filename, e.g. Kasim.jpg if that's the exact name -->
 
 ---
 ## 💡 About Me
 
 I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.
 
-I specialize in building scalable, user-friendly applications from frontend to backend. Passionate about clean code, innovative solutions, and lifelong learning.
+I design and develop scalable,secure, user-friendly applications across the full Software lifecycle from frontend interfaces to backend logic and Database integration. Passionate about clean code, innovative solutions, and lifelong learning.
 
 **Core Strengths:**
-- Excellent teamwork & communication
-- Creative problem-solving
-- Agile/Scrum expertise
-- Fast learner of emerging technologies
+- Excellent teamwork & professional communication
+- Analytical and Creative problem-solving
+- Agile/Scrum development methodologies 
+- Rapid adoption of new technologies and tools
 
-> 🚀 **Turning ideas into reality – one commit at a time**
+> 🚀 **Driven by continuous learning, I actively explore modern frameworks, tools, and best practices to stay aligned with evolving industry standard**
 
 ---
 ## 🛠 Tech Stack
@@ -121,6 +119,6 @@ I specialize in building scalable, user-friendly applications from frontend to b
 </p>
 
 <p align="center">
-  <strong>Open to freelance projects, collaborations, and full-time roles</strong><br>
-  Thanks for stopping by — let's build something amazing together! 🔥
+  <strong>Available for freelance work, strategic collaborations, and full-time positions</strong><br>
+  Let’s transform ideas into scalable, secure, reliable and impactful software together.
 </p>
