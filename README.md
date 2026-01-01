@@ -5,8 +5,11 @@
 <h1 align="center">👋 Hi, I'm Kasim Ismail Bakari 🇹🇿</h1>
 
 <p align="center">
-  <strong>Passionate Full Stack Developer</strong><br>
-  Crafting powerful web applications with <strong>PHP • Angular • Spring Boot • Python • JavaScript</strong>
+  <strong>Professional Full Stack Software Developer</strong><br>
+  Designing, developing, and delivering scalable, secure, and user-centric applications.<br>
+  Experienced in building end-to-end solutions using 
+  <strong>PHP • Angular • Spring Boot • Python • JavaScript</strong>, 
+  with a strong focus on clean architecture, performance optimization, and real-world problem solving.
 </p>
 
 <p align="center">
