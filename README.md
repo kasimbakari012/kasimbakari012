@@ -3,15 +3,13 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Kasim Ismail Bakari 🇹🇿</h1>
-
 <p align="center">
   <strong>Professional Full Stack Software Developer</strong><br>
   Designing, developing, and delivering scalable, secure, and user-friendly applications.<br>
-  Experienced in building end-to-end solutions using 
-  <strong>PHP • Angular • Spring Boot • Python • JavaScript</strong>, 
+  Experienced in building end-to-end solutions using
+  <strong>PHP • Angular • Spring Boot • Python • JavaScript</strong>,
   with a strong focus on clean architecture, performance optimization, and real-world problem solving.
 </p>
-
 <p align="center">
   📍 Dar es Salaam, Tanzania •
   📧 <a href="mailto:kasimbakari012@gmail.com">kasimbakari012@gmail.com</a> •
@@ -27,22 +25,19 @@
 
 ---
 ## 💡 About Me
-
 I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.
-
-I design and develop scalable,secure, user-friendly applications across the full Software lifecycle from frontend interfaces to backend logic and Database integration. Passionate about clean code, innovative solutions, and lifelong learning.
+I design and develop scalable, secure, user-friendly applications across the full software lifecycle from frontend interfaces to backend logic and database integration. Passionate about clean code, innovative solutions, and lifelong learning.
 
 **Core Strengths:**
 - Excellent teamwork & professional communication
-- Analytical and Creative problem-solving
-- Agile/Scrum development methodologies 
+- Analytical and creative problem-solving
+- Agile/Scrum development methodologies
 - Rapid adoption of new technologies and tools
 
-> 🚀 **Driven by continuous learning, I actively explore modern frameworks, tools, and best practices to stay aligned with evolving industry standard**
+> 🚀 **Driven by continuous learning, I actively explore modern frameworks, tools, and best practices to stay aligned with evolving industry standards**
 
 ---
 ## 🛠 Tech Stack
-
 <p align="center">
   <img src="https://thumbs.dreamstime.com/b/coding-neon-laptop-hands-typing-code-glowing-futuristic-lit-workspace-night-372022892.jpg" alt="Neon Coding Workspace" width="60%"/>
 </p>
@@ -66,6 +61,7 @@ I design and develop scalable,secure, user-friendly applications across the full
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS"/>
 </p>
 
 ### Databases & Tools
@@ -73,6 +69,9 @@ I design and develop scalable,secure, user-friendly applications across the full
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
@@ -82,36 +81,35 @@ I design and develop scalable,secure, user-friendly applications across the full
 ---
 ## 🌟 Featured Projects
 
-| Project                          | Description                                                                      | Tech Stack                                | Repository                                          |
-|----------------------------------|----------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------|
-| **Online Police Case Reporting** | Real-time case tracking with notifications                                       | PHP, MySQL, JS, Bootstrap                 | [View Code](https://github.com/kasimbakari012/fyp1) |
-| **Employee Management System**   | Full-stack CRUD with secure REST API                                             | Angular, Spring Boot, MySQL               | [View Code](https://github.com/kasimbakari012/employee-manager-fullstack) |
-| **SmartShop E-commerce**         | Feature-rich online store with authentication & payments                         | PHP, MySQL, JS, Bootstrap                 | [View Code](https://github.com/kasimbakari012/smartshop) |
-| **Pharmaceutical Auditor**       | Comprehensive pharmacy stock & sales management                                  | PHP, MySQL, JS, Bootstrap                 | [View Code](https://github.com/kasimbakari012/pharmacetic-auditor) |
-| **Flask Weather App**            | Real-time weather dashboard powered by APIs                                      | Python, Flask, HTML/CSS, MySQL            | [View Code](https://github.com/kasimbakari012/weather-app) |
-| **Number Guessing Game**         | Fun interactive web game with persistent scoring                                 | Python, Flask, HTML/CSS                   | [View Code](https://github.com/kasimbakari012/NumberGuessingGame) |
+| Project                  | Description                                                                                              | Tech Stack              | Repository                                                                 |
+|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------|----------------------------------------------------------------------------|
+| **E-commerce App**       | Full-stack e-commerce application with product browsing, search, filtering, cart, and checkout system. Admin panel for product management. | React, Django, REST API | [View Code](https://github.com/kasimbakari012/ecommerce-project-react-django) |
+| **BlogApp Fullstack**    | Modern blog platform with user authentication, CRUD for posts, profile management, pagination, and responsive UI. | Django, ReactJS         | [View Code](https://github.com/kasimbakari012/blogapp-fullstack)           |
+| **Personal Portfolio**   | Professional portfolio website showcasing skills, projects, and contact form with email notifications. | Django, HTML, CSS, JS   | [View Code](https://github.com/kasimbakari012/portfolio-django)            |
+| **Online Police Case Reporting** | Real-time case tracking system with notifications                                       | PHP, MySQL, JS, Bootstrap | [View Code](https://github.com/kasimbakari012/fyp1)                         |
+| **Employee Management System**   | Full-stack CRUD application with secure REST API                                       | Angular, Spring Boot, MySQL | [View Code](https://github.com/kasimbakari012/employee-manager-fullstack)  |
+| **SmartShop E-commerce**         | Feature-rich online store with user authentication and payment integration             | PHP, MySQL, JS, Bootstrap | [View Code](https://github.com/kasimbakari012/smartshop)                   |
+| **Pharmaceutical Auditor**       | Comprehensive pharmacy stock and sales management system                                | PHP, MySQL, JS, Bootstrap | [View Code](https://github.com/kasimbakari012/pharmacetic-auditor)         |
+| **Flask Weather App**            | Real-time weather dashboard using external APIs                                         | Python, Flask, HTML/CSS, MySQL | [View Code](https://github.com/kasimbakari012/weather-app)                 |
+| **Number Guessing Game**         | Interactive web-based game with persistent high scores                                  | Python, Flask, HTML/CSS | [View Code](https://github.com/kasimbakari012/NumberGuessingGame)          |
 
 > ⭐ All projects open for collaboration – fork, star, or contribute!
 
 ---
 ## 📊 GitHub Stats & Activity
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kasimbakari012&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimbakari012&layout=compact&theme=dracula&hide_border=true&border_radius=15" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimbakari012&theme=dracula&hide_border=true&border_radius=15" alt="Contribution Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasimbakari012&theme=dracula" alt="Profile Summary" />
 </p>
 
 ---
 ## 📫 Let's Connect
-
 <p align="center">
   <a href="mailto:kasimbakari012@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/kasimbakari012"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
