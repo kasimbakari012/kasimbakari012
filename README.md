@@ -7,7 +7,7 @@
   <strong>Professional Full Stack Software Developer</strong><br>
   Designing, developing, and delivering scalable, secure, and user-friendly applications.<br>
   Experienced in building end-to-end solutions using
-  <strong>PHP • Angular • Spring Boot • Python • JavaScript</strong>,
+  <strong>PHP • Angular • Spring Boot • Python • JavaScript • ReactJS</strong>,
   with a strong focus on clean architecture, performance optimization, and real-world problem solving.
 </p>
 <p align="center">
