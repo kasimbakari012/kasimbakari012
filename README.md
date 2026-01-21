@@ -39,6 +39,16 @@
   />
 </p>
 
+<!-- Animated typing banner (ready-to-paste; responsive) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&lines=Full+Stack+Software+Developer;Cloud+%26+DevOps;Open+to+Collaboration"
+    alt="Typing Animated Banner"
+    width="80%"
+    style="max-width:900px;"
+  />
+</p>
+
 ---
 
 ## 💡 About Me
@@ -64,6 +74,7 @@ Passionate about clean code, innovative solutions, and lifelong learning.
     src="https://thumbs.dreamstime.com/b/coding-neon-laptop-hands-typing-code-glowing-futuristic-lit-workspace-night-372022892.jpg"
     alt="Neon Coding Workspace"
     width="60%"
+    style="max-width:900px;"
   />
 </p>
 
@@ -107,6 +118,7 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 **More Skills:** Networking • Troubleshooting • Windows/Linux • Microsoft Office • Agile/Scrum
 
 ---
+
 ## Cloud Computing & DevOps (AWS)
 
 <p align="center">
@@ -125,6 +137,7 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 - Cloud-native full-stack deployments (Laravel, Django, React, Spring Boot)
 
 ---
+
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Repository |
@@ -144,6 +157,16 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 ---
 
 ## 📊 GitHub Stats & Activity
+
+<!-- Animated GitHub banners: trophies + activity graph (responsive layout) -->
+<p align="center" style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:center;">
+  <!-- Profile Trophies (dynamic) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kasimbakari012&theme=dracula&no-bg=true&margin-w=15"
+       alt="GitHub Trophies" style="max-width:420px;width:100%;height:auto;"/>
+  <!-- Contribution Activity Graph (dynamic) -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=kasimbakari012&area=true&color=BB86FC&line=false&point=false"
+       alt="Contribution Activity Graph" style="max-width:620px;width:100%;height:auto;"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kasimbakari012&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" />
