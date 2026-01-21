@@ -107,7 +107,24 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 **More Skills:** Networking • Troubleshooting • Windows/Linux • Microsoft Office • Agile/Scrum
 
 ---
+## Cloud Computing & DevOps (AWS)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,cloudflare,vscode" />
+</p>
+
+- AWS Global Infrastructure (Regions, AZs, Edge Locations)  
+- Core Services: **EC2, S3, Lambda, RDS, DynamoDB**  
+- IAM, security best practices & shared responsibility model  
+- High availability, scalability & cost optimization  
+- Cloud-native full-stack deployments (Laravel, Django, React, Spring Boot)
+
+---
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Repository |
