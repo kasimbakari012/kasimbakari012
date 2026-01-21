@@ -54,7 +54,7 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 - Rapid adoption of new technologies and tools  
 
 > 🚀 **I actively apply AWS cloud concepts to real-world projects, combining modern full-stack development with scalable and secure cloud architectures.**
-> Designing and deploying scalable, secure, and cloud-ready applications using AWS services.**
+> Designing and deploying scalable, secure, and cloud-ready applications using AWS services.
 
 ---
 
