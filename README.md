@@ -27,6 +27,7 @@
 ## 💡 About Me
 I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.
 I design and develop scalable, secure, user-friendly applications across the full software lifecycle from frontend interfaces to backend logic and database integration. Passionate about clean code, innovative solutions, and lifelong learning.
+> Designing and deploying scalable, secure, and cloud-ready applications using AWS services.
 
 **Core Strengths:**
 - Excellent teamwork & professional communication
@@ -82,6 +83,19 @@ I design and develop scalable, secure, user-friendly applications across the ful
 **More Skills:** Networking • Troubleshooting • Windows/Linux • Microsoft Office • Agile/Scrum
 
 ---
+### ☁️ Cloud Computing & DevOps (AWS)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" alt="AWS Cloud Practitioner"/>
+</p>
+
+- AWS global infrastructure: Regions, Availability Zones, Edge Locations  
+- Core services: EC2, S3, Lambda, RDS, DynamoDB  
+- IAM fundamentals: users, roles, policies, shared responsibility model  
+- High availability, scalability, and cloud security best practices  
+- Cloud-ready full-stack application design
+
 ## 🌟 Featured Projects
 
 | Project                  | Description                                                                                              | Tech Stack              | Repository                                                                 |
