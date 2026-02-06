@@ -11,8 +11,8 @@
 <h1 align="center">👋 Hi, I'm Kasim Ismail Bakari 🇹🇿</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer crafting scalable, secure, and user-friendly applications</strong><br />
-  Laravel • Spring Boot • Django • React/Angular • TypeScript • AWS Cloud
+  <strong>Full-Stack Developer | Building Scalable Cloud-Ready Applications</strong><br>
+  Laravel • Spring Boot • Django • React / Angular • TypeScript • AWS
 </p>
 
 <p align="center">
@@ -42,8 +42,10 @@
 
 ## 💡 About Me
 
-I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.  
-I design and develop scalable, secure, user-friendly applications across the full software lifecycle—from frontend interfaces to backend logic and database integration.  
+I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.
+
+I design and develop scalable, secure, user-friendly applications across the full software lifecycle — from frontend interfaces to backend logic and database integration.
+
 Passionate about clean code, innovative solutions, and lifelong learning.
 
 **Core Strengths:**
