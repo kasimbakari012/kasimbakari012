@@ -7,26 +7,29 @@
   />
 </p>
 
-<!-- Header -->
+<!-- Header + Typing Animation -->
 <h1 align="center">👋 Hi, I'm Kasim Ismail Bakari 🇹🇿</h1>
 
 <p align="center">
-  <strong>Professional Full Stack Software Developer</strong><br />
-  Designing, developing, and delivering scalable, secure, and user-friendly applications.<br />
-  Experienced in building end-to-end solutions using
-  <strong>
-    PHP (Laravel) • TypeScript (Angular) • Java (Spring Boot) •
-    Python (Django & Flask) • JavaScript • React
-  </strong>
-  with a strong focus on clean architecture, performance optimization, and real-world problem solving.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=BB86FC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Cloud-Ready+Apps;Laravel+%7C+Spring+Boot+%7C+Django+%7C+React;AWS+Enthusiast;Open+to+Opportunities" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>Full-Stack Developer crafting scalable, secure, and user-friendly applications</strong><br />
+  Laravel • Spring Boot • Django • React/Angular • TypeScript • AWS Cloud
 </p>
 
 <p align="center">
   📍 Dar es Salaam, Tanzania •
   📧 <a href="mailto:kasimbakari012@gmail.com">kasimbakari012@gmail.com</a> •
   📱 +255 774 830 895<br />
-  🔗 <a href="https://github.com/kasimbakari012/kasimbakari012">GitHub</a> •
+  🔗 <a href="https://github.com/kasimbakari012">GitHub</a> •
   💼 <a href="https://www.linkedin.com/in/kasim-bakari-034932327">LinkedIn</a>
+</p>
+
+<!-- Open to Work Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-brightgreen?style=for-the-badge&logo=openhiring&logoColor=white" alt="Open to Work" />
 </p>
 
 <!-- Profile Image -->
@@ -44,17 +47,18 @@
 ## 💡 About Me
 
 I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.
+
 I design and develop scalable, secure, user-friendly applications across the full software lifecycle from frontend interfaces to backend logic and database integration.
+
 Passionate about clean code, innovative solutions, and lifelong learning.
 
 **Core Strengths:**
-- Excellent teamwork & professional communication  
-- Analytical and creative problem-solving  
-- Agile/Scrum development methodologies  
-- Rapid adoption of new technologies and tools  
+- Excellent teamwork & professional communication
+- Analytical and creative problem-solving
+- Agile/Scrum development methodologies
+- Rapid adoption of new technologies and tools
 
 > 🚀 **I actively apply AWS cloud concepts to real-world projects, combining modern full-stack development with scalable and secure cloud architectures.**
-> Designing and deploying scalable, secure, and cloud-ready applications using AWS services.
 
 ---
 
@@ -107,7 +111,13 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 
 **More Skills:** Networking • Troubleshooting • Windows/Linux • Microsoft Office • Agile/Scrum
 
+### Quick Skill Icons
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,react,angular,spring,laravel,django,flask,ts,js,python,java,mysql,postgres,mongodb,docker,git,vscode,linux&perline=8" alt="Skills Icons" />
+</p>
+
 ---
+
 ## ☁️ Cloud Computing & DevOps (AWS)
 
 <p align="center">
@@ -115,32 +125,44 @@ Passionate about clean code, innovative solutions, and lifelong learning.
   <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,cloudflare,vscode" />
-</p>
-
-- AWS Global Infrastructure (Regions, AZs, Edge Locations)  
-- Core Services: **EC2, S3, Lambda, RDS, DynamoDB**  
-- IAM, security best practices & shared responsibility model  
-- High availability, scalability & cost optimization  
+- AWS Global Infrastructure (Regions, AZs, Edge Locations)
+- Core Services: **EC2, S3, Lambda, RDS, DynamoDB**
+- IAM, security best practices & shared responsibility model
+- High availability, scalability & cost optimization
 - Cloud-native full-stack deployments (Laravel, Django, React, Spring Boot)
 
 ---
+
+## 🏆 Certifications & Achievements
+
+- **AWS Certified Cloud Practitioner** — Practical experience with core AWS services
+- Built & deployed multiple full-stack applications to cloud environments
+- Consistent contributor to personal, academic, and real-world projects
+
+---
+
+## 🌱 Currently Exploring & Open To
+
+- Microservices architecture & Kubernetes basics
+- Serverless applications with AWS Lambda
+- Freelance / full-time opportunities in East Africa or remote
+- Collaborations on open-source or innovative projects
+
+---
+
 ## 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Repository |
-|-------|------------|-----------|------------|
-| **E-commerce App** | Full-stack e-commerce application with product browsing, search, filtering, cart, checkout, and admin management | React, Django, REST API | [View Code](https://github.com/kasimbakari012/ecommerce-project-react-django) |
-| **BlogApp Fullstack** | Blog platform with authentication, CRUD posts, profiles, pagination, responsive UI | Django, ReactJS | [View Code](https://github.com/kasimbakari012/blogapp-fullstack) |
-| **Personal Portfolio** | Portfolio website with projects, contact form, and email notifications | Django, HTML, CSS, JS | [View Code](https://github.com/kasimbakari012/portfolio-django) |
-| **Online Police Case Reporting** | Real-time case tracking and notifications | PHP, MySQL, JS, Bootstrap | [View Code](https://github.com/kasimbakari012/fyp1) |
-| **Employee Management System** | Secure full-stack CRUD system with REST API | Angular, Spring Boot, MySQL | [View Code](https://github.com/kasimbakari012/employee-manager-fullstack) |
-| **SmartShop E-commerce** | Online store with authentication and payments | PHP, MySQL, JS, Bootstrap | [View Code](https://github.com/kasimbakari012/smartshop) |
-| **Pharmaceutical Auditor** | Pharmacy stock and sales management system | PHP, MySQL, JS, Bootstrap | [View Code](https://github.com/kasimbakari012/pharmacetic-auditor) |
-| **Flask Weather App** | Real-time weather dashboard using external APIs | Python, Flask, HTML/CSS, MySQL | [View Code](https://github.com/kasimbakari012/weather-app) |
-| **Number Guessing Game** | Interactive game with persistent high scores | Python, Flask, HTML/CSS | [View Code](https://github.com/kasimbakari012/NumberGuessingGame) |
+| Project                        | Description                                                                 | Tech Stack                  | Key Features / Impact                              | Live Demo (if available) | Repository                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|-----------------------------|----------------------------------------------------|---------------------------|----------------------------------------------------------------------------|
+| **E-commerce App**             | Full-stack e-commerce with product browsing, search, cart, checkout & admin | React, Django, REST API     | JWT Auth, Real-time search, Responsive UI, AWS-ready | —                         | [View Code](https://github.com/kasimbakari012/ecommerce-project-react-django) |
+| **BlogApp Fullstack**          | Blog platform with authentication, CRUD, profiles, pagination              | Django, React               | Secure auth, Rich text editor, Responsive design   | —                         | [View Code](https://github.com/kasimbakari012/blogapp-fullstack)            |
+| **Personal Portfolio**         | Portfolio site with projects & contact form                                 | Django, HTML, CSS, JS       | Email notifications, Clean UI                      | —                         | [View Code](https://github.com/kasimbakari012/portfolio-django)             |
+| **Online Police Case Reporting** | Real-time case tracking & notifications                                   | PHP, MySQL, JS, Bootstrap   | User reporting, Admin dashboard                    | —                         | [View Code](https://github.com/kasimbakari012/fyp1)                         |
+| **Employee Management System** | Secure CRUD system with REST API                                          | Angular, Spring Boot, MySQL | Role-based access, API documentation               | —                         | [View Code](https://github.com/kasimbakari012/employee-manager-fullstack)   |
 
 > ⭐ All projects open for collaboration – fork, star, or contribute!
+
+*(Tip: Add live demos on Vercel/Netlify/Render when possible — recruiters love clickable previews!)*
 
 ---
 
@@ -153,6 +175,10 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimbakari012&theme=dracula&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasimbakari012&theme=dracula&hide_border=true&radius=15" />
 </p>
 
 <p align="center">
