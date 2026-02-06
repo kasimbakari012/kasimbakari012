@@ -7,12 +7,8 @@
   />
 </p>
 
-<!-- Header + Typing Animation -->
+<!-- Header -->
 <h1 align="center">👋 Hi, I'm Kasim Ismail Bakari 🇹🇿</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=BB86FC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Cloud-Ready+Apps;Laravel+%7C+Spring+Boot+%7C+Django+%7C+React;AWS+Enthusiast;Open+to+Opportunities" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <strong>Full-Stack Developer crafting scalable, secure, and user-friendly applications</strong><br />
@@ -46,10 +42,8 @@
 
 ## 💡 About Me
 
-I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.
-
-I design and develop scalable, secure, user-friendly applications across the full software lifecycle from frontend interfaces to backend logic and database integration.
-
+I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.  
+I design and develop scalable, secure, user-friendly applications across the full software lifecycle—from frontend interfaces to backend logic and database integration.  
 Passionate about clean code, innovative solutions, and lifelong learning.
 
 **Core Strengths:**
@@ -152,17 +146,15 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 
 ## 🌟 Featured Projects
 
-| Project                        | Description                                                                 | Tech Stack                  | Key Features / Impact                              | Live Demo (if available) | Repository                                                                 |
-|--------------------------------|-----------------------------------------------------------------------------|-----------------------------|----------------------------------------------------|---------------------------|----------------------------------------------------------------------------|
-| **E-commerce App**             | Full-stack e-commerce with product browsing, search, cart, checkout & admin | React, Django, REST API     | JWT Auth, Real-time search, Responsive UI, AWS-ready | —                         | [View Code](https://github.com/kasimbakari012/ecommerce-project-react-django) |
-| **BlogApp Fullstack**          | Blog platform with authentication, CRUD, profiles, pagination              | Django, React               | Secure auth, Rich text editor, Responsive design   | —                         | [View Code](https://github.com/kasimbakari012/blogapp-fullstack)            |
-| **Personal Portfolio**         | Portfolio site with projects & contact form                                 | Django, HTML, CSS, JS       | Email notifications, Clean UI                      | —                         | [View Code](https://github.com/kasimbakari012/portfolio-django)             |
-| **Online Police Case Reporting** | Real-time case tracking & notifications                                   | PHP, MySQL, JS, Bootstrap   | User reporting, Admin dashboard                    | —                         | [View Code](https://github.com/kasimbakari012/fyp1)                         |
-| **Employee Management System** | Secure CRUD system with REST API                                          | Angular, Spring Boot, MySQL | Role-based access, API documentation               | —                         | [View Code](https://github.com/kasimbakari012/employee-manager-fullstack)   |
+| Project                        | Description                                                                 | Tech Stack                  | Key Features / Impact                              | Repository                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|-----------------------------|----------------------------------------------------|----------------------------------------------------------------------------|
+| **E-commerce App**             | Full-stack e-commerce with product browsing, search, cart, checkout & admin | React, Django, REST API     | JWT Auth, Real-time search, Responsive UI, AWS-ready | [View Code](https://github.com/kasimbakari012/ecommerce-project-react-django) |
+| **BlogApp Fullstack**          | Blog platform with authentication, CRUD, profiles, pagination              | Django, React               | Secure auth, Rich text editor, Responsive design   | [View Code](https://github.com/kasimbakari012/blogapp-fullstack)            |
+| **Personal Portfolio**         | Portfolio site with projects & contact form                                 | Django, HTML, CSS, JS       | Email notifications, Clean UI                      | [View Code](https://github.com/kasimbakari012/portfolio-django)             |
+| **Online Police Case Reporting** | Real-time case tracking & notifications                                   | PHP, MySQL, JS, Bootstrap   | User reporting, Admin dashboard                    | [View Code](https://github.com/kasimbakari012/fyp1)                         |
+| **Employee Management System** | Secure CRUD system with REST API                                          | Angular, Spring Boot, MySQL | Role-based access, API documentation               | [View Code](https://github.com/kasimbakari012/employee-manager-fullstack)   |
 
 > ⭐ All projects open for collaboration – fork, star, or contribute!
-
-*(Tip: Add live demos on Vercel/Netlify/Render when possible — recruiters love clickable previews!)*
 
 ---
 
