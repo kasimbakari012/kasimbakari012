@@ -1,32 +1,45 @@
-<!-- Banner -->
 <p align="center">
-  <img
-    src="https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?semt=ais_hybrid"
-    alt="Futuristic Tech Banner"
-    width="100%"
-  />
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:38bdf8&height=220&section=header&text=Kasim%20Ismail%20Bakari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%7C%20Angular%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=60&descSize=16" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:4f46e5&height=220&section=header&text=Kasim%20Ismail%20Bakari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%7C%20Angular%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=60&descSize=16" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:38bdf8&height=220&section=header&text=Kasim%20Ismail%20Bakari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%7C%20Angular%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=60&descSize=16"
+      alt="Kasim Bakari Banner" width="100%" />
+  </picture>
 </p>
 
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Kasim Ismail Bakari 🇹🇿</h1>
+<!-- Quick Intro -->
+<h2 align="center">👋 Hi, I'm Kasim Ismail Bakari 🇹🇿</h2>
 
 <p align="center">
-  <strong>Professional Full Stack Software Developer</strong><br />
-  Designing, developing, and delivering scalable, secure, and user-friendly applications.<br />
-  Experienced in building end-to-end solutions using
+  <strong>Professional Full Stack Software Developer</strong><br/>
+  Designing, developing, and delivering scalable, secure, user-friendly applications.<br/>
   <strong>
     PHP (Laravel) • TypeScript (Angular) • Java (Spring Boot) •
-    Python (Django & Flask) • JavaScript • React
+    Python (Django & Flask) • JavaScript • React • Dart (Flutter)
   </strong>
-  with a strong focus on clean architecture, performance optimization, and real-world problem solving.
 </p>
 
+<!-- Contact & Links -->
 <p align="center">
   📍 Dar es Salaam, Tanzania •
   📧 <a href="mailto:kasimbakari012@gmail.com">kasimbakari012@gmail.com</a> •
-  📱 +255 774 830 895<br />
-  🔗 <a href="https://github.com/kasimbakari012/kasimbakari012">GitHub</a> •
-  💼 <a href="https://www.linkedin.com/in/kasim-bakari-034932327">LinkedIn</a>
+  📱 +255 774 830 895
+</p>
+
+<p align="center">
+  <a href="https://github.com/kasimbakari012">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kasim-bakari-034932327">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kasimbakari012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <!-- Profile Image -->
@@ -34,27 +47,32 @@
   <img
     src="https://raw.githubusercontent.com/kasimbakari012/kasimbakari012/main/profile.jpg"
     alt="Kasim Ismail Bakari"
-    width="300"
-    style="border-radius:50%; border:6px solid #BB86FC; box-shadow:0 0 30px #BB86FC;"
+    width="220"
+    style="border-radius:50%; border:5px solid #4f46e5; box-shadow:0 10px 35px rgba(79,70,229,.35);"
   />
+</p>
+
+<p align="center">
+  <a href="#-featured-projects"><b>Featured Projects</b></a> •
+  <a href="#-tech-stack"><b>Tech Stack</b></a> •
+  <a href="#-cloud-computing--devops-aws"><b>AWS/DevOps</b></a> •
+  <a href="#-lets-connect"><b>Connect</b></a>
 </p>
 
 ---
 
 ## 💡 About Me
 
-I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.
-I design and develop scalable, secure, user-friendly applications across the full software lifecycle from frontend interfaces to backend logic and database integration.
-Passionate about clean code, innovative solutions, and lifelong learning.
+I'm a driven **Full Stack Developer** with a **Diploma in Computer Science and Information Technology** from the **University of Dar es Salaam**.  
+I build scalable, secure, real-world applications across the full lifecycle—from UI to APIs to databases.
 
-**Core Strengths:**
+**Core Strengths**
 - Excellent teamwork & professional communication  
-- Analytical and creative problem-solving  
+- Analytical & creative problem-solving  
 - Agile/Scrum development methodologies  
 - Rapid adoption of new technologies and tools  
 
-> 🚀 **I actively apply AWS cloud concepts to real-world projects, combining modern full-stack development with scalable and secure cloud architectures.**
-> Designing and deploying scalable, secure, and cloud-ready applications using AWS services.
+> 🚀 I actively apply **AWS cloud concepts** to real projects, combining full-stack development with scalable, secure cloud architectures.
 
 ---
 
@@ -75,8 +93,9 @@ Passionate about clean code, innovative solutions, and lifelong learning.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9C0?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9C0?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -84,6 +103,7 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 ### Frameworks & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -108,6 +128,7 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 **More Skills:** Networking • Troubleshooting • Windows/Linux • Microsoft Office • Agile/Scrum
 
 ---
+
 ## ☁️ Cloud Computing & DevOps (AWS)
 
 <p align="center">
@@ -123,24 +144,24 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 - Core Services: **EC2, S3, Lambda, RDS, DynamoDB**  
 - IAM, security best practices & shared responsibility model  
 - High availability, scalability & cost optimization  
-- Cloud-native full-stack deployments (Laravel, Django, React, Spring Boot)
+- Cloud-ready full-stack deployments (Laravel, Django, React, Spring Boot)
 
 ---
+
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Repository |
 |-------|------------|-----------|------------|
-| **E-commerce App** | Full-stack e-commerce application with product browsing, search, filtering, cart, checkout, and admin management | React, Django, REST API | [View Code](https://github.com/kasimbakari012/ecommerce-project-react-django) |
-| **BlogApp Fullstack** | Blog platform with authentication, CRUD posts, profiles, pagination, responsive UI | Django, ReactJS | [View Code](https://github.com/kasimbakari012/blogapp-fullstack) |
-| **Personal Portfolio** | Portfolio website with projects, contact form, and email notifications | Django, HTML, CSS, JS | [View Code](https://github.com/kasimbakari012/portfolio-django) |
+| **E-commerce App** | Full-stack e-commerce application with product browsing, cart, checkout, admin management | React, Django, REST API | [View Code](https://github.com/kasimbakari012/ecommerce-project-react-django) |
+| **BlogApp Fullstack** | Blog platform with authentication, CRUD posts, pagination, responsive UI | Django, ReactJS | [View Code](https://github.com/kasimbakari012/blogapp-fullstack) |
+| **Personal Portfolio** | Portfolio website with projects, contact form, email notifications | Django, HTML, CSS, JS | [View Code](https://github.com/kasimbakari012/portfolio-django) |
 | **Online Police Case Reporting** | Real-time case tracking and notifications | PHP, MySQL, JS, Bootstrap | [View Code](https://github.com/kasimbakari012/fyp1) |
-| **Employee Management System** | Secure full-stack CRUD system with REST API | Angular, Spring Boot, MySQL | [View Code](https://github.com/kasimbakari012/employee-manager-fullstack) |
+| **Employee Management System** | Secure full-stack CRUD + JWT + Leave approvals workflow | Angular, Spring Boot, MySQL | [View Code](https://github.com/kasimbakari012/employee-manager-fullstack) |
 | **SmartShop E-commerce** | Online store with authentication and payments | PHP, MySQL, JS, Bootstrap | [View Code](https://github.com/kasimbakari012/smartshop) |
 | **Pharmaceutical Auditor** | Pharmacy stock and sales management system | PHP, MySQL, JS, Bootstrap | [View Code](https://github.com/kasimbakari012/pharmacetic-auditor) |
-| **Flask Weather App** | Real-time weather dashboard using external APIs | Python, Flask, HTML/CSS, MySQL | [View Code](https://github.com/kasimbakari012/weather-app) |
-| **Number Guessing Game** | Interactive game with persistent high scores | Python, Flask, HTML/CSS | [View Code](https://github.com/kasimbakari012/NumberGuessingGame) |
+| **Flask Weather App** | Real-time weather dashboard using external APIs | Python, Flask, HTML/CSS | [View Code](https://github.com/kasimbakari012/weather-app) |
 
-> ⭐ All projects open for collaboration – fork, star, or contribute!
+> ⭐ All projects open for collaboration — fork, star, or contribute!
 
 ---
 
@@ -176,6 +197,10 @@ Passionate about clean code, innovative solutions, and lifelong learning.
 </p>
 
 <p align="center">
-  <strong>Available for freelance work, strategic collaborations, and full-time positions</strong><br />
+  <strong>Available for freelance work, strategic collaborations, and full-time positions</strong><br/>
   Let’s transform ideas into scalable, secure, reliable, and impactful software together.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:38bdf8&height=120&section=footer" width="100%" />
 </p>
