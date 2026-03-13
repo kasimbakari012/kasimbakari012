@@ -1,4 +1,12 @@
 <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:4f46e5&height=210&section=header&text=Kasim%20Ismail%20Bakari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%7C%20Angular%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=60&descSize=16"
+    alt="Kasim Ismail Bakari — Full Stack Software Developer"
+    width="100%"
+  />
+</p>
+
+<p align="center">
   <picture>
     <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)" 
