@@ -4,8 +4,11 @@
       srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:38bdf8&height=220&section=header&text=Kasim%20Ismail%20Bakari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%7C%20Angular%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=60&descSize=16" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:4f46e5&height=220&section=header&text=Kasim%20Ismail%20Bakari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%7C%20Angular%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=60&descSize=16" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:38bdf8&height=220&section=header&text=Kasim%20Ismail%20Bakari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%7C%20Angular%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=60&descSize=16"
-      alt="Kasim Bakari Banner" width="100%" />
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:38bdf8&height=220&section=header&text=Kasim%20Ismail%20Bakari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%7C%20Angular%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=60&descSize=16"
+      alt="Kasim Bakari Banner"
+      width="100%"
+    />
   </picture>
 </p>
 
@@ -56,7 +59,7 @@ I work across the full software development lifecycle:
 - Writing testable and production-ready code
 
 I’m especially focused on:
-- **Angular** for frontend development
+- **Angular, React, HTML, CSS, Bootstrap, and Tailwind CSS** for frontend development
 - **Spring Boot** for backend APIs and enterprise-style applications
 - **Laravel / Django** for rapid web application development
 - **AWS cloud concepts** for scalable and reliable deployments
@@ -73,12 +76,21 @@ I’m especially focused on:
 - Applying **AWS cloud concepts** to modern application development
 - Continuously improving my portfolio with real-world software projects
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/kasimbakari012/kasimbakari012/main/profile.jpg"
+    alt="Kasim Ismail Bakari"
+    width="220"
+    style="border-radius:50%; border:5px solid #4f46e5; box-shadow:0 10px 35px rgba(79,70,229,.35);"
+  />
+</p>
+
 ---
 
 ## 🌟 Featured Projects
 
 ### 1) Project Management System API
-A production-style **Spring Boot Project Management System** with **JWT authentication**, **role-based access control (Admin / Manager / User)**, project and task management, dashboard analytics, pagination/filtering, global error handling, Swagger documentation, and automated test coverage.
+A production-style **Spring Boot API** featuring **JWT authentication**, **role-based access control (Admin / Manager / User)**, project and task management, dashboard analytics, pagination/filtering, global error handling, Swagger documentation, and automated test coverage.
 
 **Tech Stack:** Java, Spring Boot, Spring Security, JWT, Spring Data JPA, MySQL, Swagger, JUnit, Mockito, JaCoCo  
 🔗 **Repository:** [project-management-system](https://github.com/kasimbakari012/project-management-system)
