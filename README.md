@@ -45,6 +45,14 @@
   <a href="#-lets-connect"><b>Connect</b></a>
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/kasimbakari012/kasimbakari012/main/profile.jpg"
+    alt="Kasim Ismail Bakari"
+    width="220"
+    style="border-radius:50%; border:5px solid #4f46e5; box-shadow:0 10px 35px rgba(79,70,229,.35);"
+  />
+</p>
 ---
 
 ## 💡 About Me
@@ -75,15 +83,6 @@ I’m especially focused on:
 - Writing **clean, testable, and production-style code**
 - Applying **AWS cloud concepts** to modern application development
 - Continuously improving my portfolio with real-world software projects
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/kasimbakari012/kasimbakari012/main/profile.jpg"
-    alt="Kasim Ismail Bakari"
-    width="220"
-    style="border-radius:50%; border:5px solid #4f46e5; box-shadow:0 10px 35px rgba(79,70,229,.35);"
-  />
-</p>
 
 ---
 
