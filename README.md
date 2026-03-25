@@ -209,7 +209,7 @@ A clean full-stack feature request management system. **Node.js + Express REST A
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-**Additional Skills:** REST APIs • Authentication & Authorization • Agile/Scrum • Troubleshooting • Networking • Windows/Linux
+**Additional Skills:** REST APIs • Authentication & Authorization • Agile/Scrum • Troubleshooting • Networking • Windows/Linux • Data Structures • Algorithms
 
 ---
 
