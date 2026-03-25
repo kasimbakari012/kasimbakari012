@@ -158,6 +158,12 @@ A real-time weather dashboard powered by external APIs.
 **Tech Stack:** Python, Flask, HTML, CSS  
 🔗 **Repository:** [weather-app](https://github.com/kasimbakari012/weather-app)
 
+### 10) Feature Request Tracker
+A clean full-stack feature request management system. **Node.js + Express REST API** backend with MySQL + a modern responsive **React** dashboard frontend. Features include CRUD, inline status updates, filtering, search, validation, error handling, modals and toast notifications.
+
+**Tech Stack:** Node.js, Express.js, MySQL, React, Vite, Axios  
+🔗 **Repository:** [feature-request-tracker](https://github.com/kasimbakari012/feature-request-tracker)
+
 > ⭐ I’m always open to collaboration, learning opportunities, and building impactful software.
 
 ---
@@ -172,6 +178,7 @@ A real-time weather dashboard powered by external APIs.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -187,6 +194,7 @@ A real-time weather dashboard powered by external APIs.
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 ### Databases & Tools
