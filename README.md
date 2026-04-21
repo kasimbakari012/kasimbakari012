@@ -88,7 +88,7 @@ I’m especially focused on:
 
 ## 🌟 Featured Projects
 
-### 0) Fintech Backend – Bank-Grade Production System
+### 0) Fintech Backend
 A secure, scalable and production-grade fintech backend designed using real-world financial system standards. This project emphasizes security, correctness, auditability and maintainability, making it suitable 
 for serious fintech or banking environments.
 
