@@ -71,7 +71,7 @@ I’m especially focused on:
 - **Spring Boot** for backend APIs and enterprise-style applications
 - **Laravel / Django** for rapid web application development
 - **AWS cloud concepts** for scalable and reliable deployments
-
+- **Flutter** for Mobile application development
 > 🚀 I enjoy turning practical business problems into polished software solutions.
 
 ---
@@ -87,6 +87,15 @@ I’m especially focused on:
 ---
 
 ## 🌟 Featured Projects
+
+### 0) Fintech Backend – Bank-Grade Production System
+A secure, scalable and production-grade fintech backend designed using real-world financial system standards. This project emphasizes security, correctness, auditability and maintainability, making it suitable 
+for serious fintech or banking environments.
+
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT, Spring Data JPA, PostgreSQL, Flyway, Redis, Swagger, BCrypt, Logback JSON, OpenAPI 3, JUnit 5, Testcontainers, Docker, Docker Compose, Maven  
+🔗 **Repository:** [fintech-backend](https://github.com/kasimbakari012/fintech-backend).
+
+---
 
 ### 1) Project Management System API
 A production-style **Spring Boot API** featuring **JWT authentication**, **role-based access control (Admin / Manager / User)**, project and task management, dashboard analytics, pagination/filtering, global error handling, Swagger documentation, and automated test coverage.
