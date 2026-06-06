@@ -132,8 +132,8 @@ A blog platform with authentication, CRUD posts, pagination, and responsive UI.
 ### 5) Shop App A Multi-Tenant E-Commerce Platform 
 A scalable multi-tenant e-commerce platform inspired by modern marketplace systems. It supports multiple merchants with independent storefronts, product discovery, collections, search, cart, and order management in a unified ecosystem.
 
-**Tech Stack:** Node.js(Express.js),React,Vite, HTML, CSS, JavaScript  
-🔗 **Repository:** [portfolio-django](https://github.com/kasimbakari012/Shop-App)
+**Tech Stack:** Node.js(Express.js 5),React 19,Vite, HTML&CSS,TailwindCSS, MySQL and REST API.
+🔗 **Repository:** [ShopApp](https://github.com/kasimbakari012/ShopApp)
 
 ---
 
