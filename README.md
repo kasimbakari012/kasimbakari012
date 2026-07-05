@@ -44,7 +44,7 @@
   <a href="#-github-stats"><b>GitHub Stats</b></a> •
   <a href="#-lets-connect"><b>Connect</b></a>
 </p>
-
+---
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/kasimbakari012/kasimbakari012/main/profile.jpg"
@@ -53,7 +53,6 @@
     style="border-radius:50%; border:5px solid #4f46e5; box-shadow:0 10px 35px rgba(79,70,229,.35);"
   />
 </p>
----
 
 ## 💡 About Me
 
