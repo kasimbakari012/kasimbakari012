@@ -16,7 +16,7 @@
 
 <p align="center">
   <strong>Full Stack Software Developer</strong><br/>
-  I build scalable, secure, and user-focused applications across frontend, backend, APIs, and databases.
+  I build production-grade ERP, CRM, and fintech-style systems — from secure REST APIs to full observability stacks.
 </p>
 
 <p align="center">
@@ -57,38 +57,46 @@
 
 ## 💡 About Me
 
-I'm a **Full Stack Software Developer** with a strong interest in building real-world applications that are clean, secure, scalable, and maintainable.
+I'm a **Full Stack Software Developer** building production-style systems for telecom, ERP, and fintech clients — from secure REST APIs to multi-tenant SaaS platforms with full observability.
 
 I work across the full software development lifecycle:
-- Designing responsive user interfaces
-- Building secure backend APIs
-- Managing relational databases
-- Implementing authentication and authorization
-- Writing testable and production-ready code
+- Designing responsive, accessible user interfaces
+- Building secure backend APIs with proper authentication and authorization
+- Designing relational schemas and optimizing queries
+- Instrumenting systems with metrics, logs, and distributed tracing
+- Writing testable, production-ready code
 
-I’m especially focused on:
-- **Angular, React, HTML, CSS, Bootstrap, and Tailwind CSS** for frontend development
-- **Spring Boot** for backend APIs and enterprise-style applications
-- **Laravel / Django** for rapid web application development
-- **AWS cloud concepts** for scalable and reliable deployments
-- **Flutter** for Mobile application development
-> 🚀 I enjoy turning practical business problems into polished software solutions.
+I'm especially focused on:
+- **Java / Spring Boot** for backend APIs and enterprise-style applications
+- **Angular, React, and Tailwind CSS** for frontend development
+- **Laravel / Django** for rapid web application delivery
+- **AWS** (S3, Lambda, Athena) for cloud-deployed workloads
+- **Flutter** for mobile application development
+> 🚀 I enjoy turning practical business problems into polished, production-ready software.
 
 ---
 
 ## 🔥 Current Focus
 
-- Building **full-stack applications** with Angular + Spring Boot
-- Improving **backend architecture**, API security, and role-based access control
-- Writing **clean, testable, and production-style code**
-- Applying **AWS cloud concepts** to modern application development
-- Continuously improving my portfolio with real-world software projects
+- Building **multi-tenant SaaS platforms** with Angular + Spring Boot
+- Strengthening **backend architecture** — API security, rate limiting, and observability (Prometheus/Grafana/Loki/Tempo)
+- Writing **clean, testable, production-style code**
+- Applying **AWS** (S3, Lambda, Athena) to real deployments
+- Continuously shipping real-world software projects, not just tutorials
 
 ---
 
 ## 🌟 Featured Projects
 
-### 0) Fintech Backend
+### 0) Inventory & Billing SaaS — Multi-Tenant ERP with Full Observability
+A production-grade, multi-tenant inventory and billing platform (Spring Boot 3 + Angular 19) with a self-hosted observability stack for metrics, logs, and distributed traces. Implements JWT auth with server-side refresh-token rotation and reuse detection, Redis-backed distributed rate limiting (Bucket4j), Hibernate-filter-based tenant isolation, and database-level payment idempotency — covering the full purchasing → sales → invoicing → payments lifecycle, with every request traced end-to-end and correlated in Grafana.
+
+**Tech Stack:** Java 21, Spring Boot 3.4, Spring Security, PostgreSQL, Flyway, Redis, Bucket4j, Resilience4j, Angular 19, TypeScript, Tailwind CSS, Docker Compose, OpenTelemetry, Prometheus, Grafana, Loki, Tempo
+🔗 **Repository:** [Inventory](https://github.com/kasimbakari012/Inventory)
+
+---
+
+### 1) Fintech Backend
 A secure, scalable and production-grade fintech backend designed using real-world financial system standards. This project emphasizes security, correctness, auditability and maintainability, making it suitable 
 for serious fintech or banking environments.
 
@@ -97,7 +105,7 @@ for serious fintech or banking environments.
 
 ---
 
-### 1) Project Management System API
+### 2) Project Management System API
 A production-style **Spring Boot API** featuring **JWT authentication**, **role-based access control (Admin / Manager / User)**, project and task management, dashboard analytics, pagination/filtering, global error handling, Swagger documentation, and automated test coverage.
 
 **Tech Stack:** Java, Spring Boot, Spring Security, JWT, Spring Data JPA, MySQL, Swagger, JUnit, Mockito, JaCoCo  
@@ -105,7 +113,7 @@ A production-style **Spring Boot API** featuring **JWT authentication**, **role-
 
 ---
 
-### 2) Employee Management System
+### 3) Employee Management System
 A secure full-stack employee management application with CRUD operations, JWT authentication, and leave approval workflow.
 
 **Tech Stack:** Angular, Spring Boot, MySQL  
@@ -113,7 +121,7 @@ A secure full-stack employee management application with CRUD operations, JWT au
 
 ---
 
-### 3) E-commerce App
+### 4) E-commerce App
 A full-stack e-commerce application with product browsing, shopping cart, checkout flow, and admin product management.
 
 **Tech Stack:** React, Django, REST API  
@@ -121,7 +129,7 @@ A full-stack e-commerce application with product browsing, shopping cart, checko
 
 ---
 
-### 4) BlogApp Fullstack
+### 5) BlogApp Fullstack
 A blog platform with authentication, CRUD posts, pagination, and responsive UI.
 
 **Tech Stack:** Django, React  
@@ -129,7 +137,7 @@ A blog platform with authentication, CRUD posts, pagination, and responsive UI.
 
 ---
 
-### 5) Shop App A Multi-Tenant E-Commerce Platform 
+### 6) Shop App A Multi-Tenant E-Commerce Platform 
 A scalable multi-tenant e-commerce platform inspired by modern marketplace systems. It supports multiple merchants with independent storefronts, product discovery, collections, search, cart, and order management in a unified ecosystem.
 
 **Tech Stack:** Node.js(Express.js 5),React 19,Vite, HTML&CSS,TailwindCSS, MySQL and REST API.
@@ -137,7 +145,7 @@ A scalable multi-tenant e-commerce platform inspired by modern marketplace syste
 
 ---
 
-### 6) Online Police Case Reporting System
+### 7) Online Police Case Reporting System
 A real-time police case reporting and tracking system with notifications and case management features.
 
 **Tech Stack:** PHP, MySQL, JavaScript, Bootstrap  
@@ -145,7 +153,7 @@ A real-time police case reporting and tracking system with notifications and cas
 
 ---
 
-### 7) SmartShop E-commerce
+### 8) SmartShop E-commerce
 An online store application with authentication, shopping flow, and payment-related features.
 
 **Tech Stack:** PHP, MySQL, JavaScript, Bootstrap  
@@ -153,7 +161,7 @@ An online store application with authentication, shopping flow, and payment-rela
 
 ---
 
-### 8) Pharmaceutical Auditor
+### 9) Pharmaceutical Auditor
 A pharmacy stock, sales, and inventory management system.
 
 **Tech Stack:** PHP, MySQL, JavaScript, Bootstrap  
@@ -161,13 +169,13 @@ A pharmacy stock, sales, and inventory management system.
 
 ---
 
-### 9) Flask Weather App
+### 10) Flask Weather App
 A real-time weather dashboard powered by external APIs.
 
 **Tech Stack:** Python, Flask, HTML, CSS  
 🔗 **Repository:** [weather-app](https://github.com/kasimbakari012/weather-app)
 
-### 10) Feature Request Tracker
+### 11) Feature Request Tracker
 A clean full-stack feature request management system. **Node.js + Express REST API** backend with MySQL + a modern responsive **React** dashboard frontend. Features include CRUD, inline status updates, filtering, search, validation, error handling, modals and toast notifications.
 
 **Tech Stack:** Node.js, Express.js, MySQL, React, Vite, Axios  
@@ -226,17 +234,18 @@ A clean full-stack feature request management system. **Node.js + Express REST A
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 I actively apply cloud and deployment concepts to modern applications, including:
-- AWS core services and cloud fundamentals
+- AWS core services (S3, Lambda, Athena) and cloud fundamentals
+- Self-hosted observability: Prometheus, Grafana, Loki, Tempo, OpenTelemetry
 - Scalable and secure deployment thinking
 - IAM and shared responsibility model
-- Cloud-ready backend and full-stack applications
 - CI/CD mindset and developer tooling
 
 ---
