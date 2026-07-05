@@ -58,7 +58,7 @@
 
 ## 💡 About Me
 
-I'm a **Full Stack Software Developer** building production-style systems for telecom, ERP, and fintech clients — from secure REST APIs to multi-tenant SaaS platforms with full observability.
+I'm a **Full Stack Software Developer** building production-style systems, scalable, secure and user-focused applications across frontend, backend, APIs and databases.
 
 I work across the full software development lifecycle:
 - Designing responsive, accessible user interfaces
@@ -80,7 +80,7 @@ I'm especially focused on:
 ## 🔥 Current Focus
 
 - Building **multi-tenant SaaS platforms** with Angular + Spring Boot
-- Strengthening **backend architecture** — API security, rate limiting, and observability (Prometheus/Grafana/Loki/Tempo)
+- Strengthening **backend architecture**  API security, rate limiting, and observability (Prometheus/Grafana/Loki/Tempo)
 - Writing **clean, testable, production-style code**
 - Applying **AWS** (S3, Lambda, Athena) to real deployments
 - Continuously shipping real-world software projects, not just tutorials
@@ -90,7 +90,7 @@ I'm especially focused on:
 ## 🌟 Featured Projects
 
 ### 0) Inventory & Billing SaaS — Multi-Tenant ERP with Full Observability
-A production-grade, multi-tenant inventory and billing platform (Spring Boot 3 + Angular 19) with a self-hosted observability stack for metrics, logs, and distributed traces. Implements JWT auth with server-side refresh-token rotation and reuse detection, Redis-backed distributed rate limiting (Bucket4j), Hibernate-filter-based tenant isolation, and database-level payment idempotency — covering the full purchasing → sales → invoicing → payments lifecycle, with every request traced end-to-end and correlated in Grafana.
+A production-grade, multi-tenant inventory and billing platform (Spring Boot 3 + Angular 19) with a self-hosted observability stack for metrics, logs, and distributed traces. Implements JWT auth with server-side refresh-token rotation and reuse detection, Redis-backed distributed rate limiting (Bucket4j), Hibernate-filter-based tenant isolation, and database-level payment idempotency covering the full purchasing → sales → invoicing → payments lifecycle, with every request traced end-to-end and correlated in Grafana.
 
 **Tech Stack:** Java 21, Spring Boot 3.4, Spring Security, PostgreSQL, Flyway, Redis, Bucket4j, Resilience4j, Angular 19, TypeScript, Tailwind CSS, Docker Compose, OpenTelemetry, Prometheus, Grafana, Loki, Tempo
 🔗 **Repository:** [Inventory](https://github.com/kasimbakari012/Inventory)
