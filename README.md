@@ -89,7 +89,7 @@ I'm especially focused on:
 
 ## 🌟 Featured Projects
 
-### 0) Inventory & Billing SaaS — Multi-Tenant ERP with Full Observability
+### 0) Inventory & Billing SaaS  Multi-Tenant ERP with Full Observability
 A production-grade, multi-tenant inventory and billing platform (Spring Boot 3 + Angular 19) with a self-hosted observability stack for metrics, logs, and distributed traces. Implements JWT auth with server-side refresh-token rotation and reuse detection, Redis-backed distributed rate limiting (Bucket4j), Hibernate-filter-based tenant isolation, and database-level payment idempotency covering the full purchasing → sales → invoicing → payments lifecycle, with every request traced end-to-end and correlated in Grafana.
 
 **Tech Stack:** Java 21, Spring Boot 3.4, Spring Security, PostgreSQL, Flyway, Redis, Bucket4j, Resilience4j, Angular 19, TypeScript, Tailwind CSS, Docker Compose, OpenTelemetry, Prometheus, Grafana, Loki, Tempo
