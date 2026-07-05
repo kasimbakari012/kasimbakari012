@@ -16,7 +16,7 @@
 
 <p align="center">
   <strong>Full Stack Software Developer</strong><br/>
-  I build production-grade ERP, CRM, and fintech-style systems — from secure REST APIs to full observability stacks.
+  I build scalable, secure and user-focused applications across frontend, backend, APIs and databases.
 </p>
 
 <p align="center">
@@ -170,13 +170,7 @@ A pharmacy stock, sales, and inventory management system.
 
 ---
 
-### 10) Flask Weather App
-A real-time weather dashboard powered by external APIs.
-
-**Tech Stack:** Python, Flask, HTML, CSS  
-🔗 **Repository:** [weather-app](https://github.com/kasimbakari012/weather-app)
-
-### 11) Feature Request Tracker
+### 10) Feature Request Tracker
 A clean full-stack feature request management system. **Node.js + Express REST API** backend with MySQL + a modern responsive **React** dashboard frontend. Features include CRUD, inline status updates, filtering, search, validation, error handling, modals and toast notifications.
 
 **Tech Stack:** Node.js, Express.js, MySQL, React, Vite, Axios  
